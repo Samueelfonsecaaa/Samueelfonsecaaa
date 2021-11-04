@@ -2,8 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-fonseca/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samuelfonseca/)
+<a href = "mailto:samuelpromessa8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Samueelfonsecaaa&show_icons=true&theme=highcontrast)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samueelfonsecaaa&layout=compact&langs_count=7&theme=highcontrast"/>
 
 ## Tecnologias que utilizo
 
