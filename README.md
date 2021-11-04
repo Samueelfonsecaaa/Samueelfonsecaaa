@@ -22,7 +22,7 @@
 <img align="center" alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, transformo ideias em código 💻
+Apaixonado por tecnologia, transformo idéias em código 💻
 
 ## Últimos projetos:
 - [Aplicativo mata-mosquito](https://github.com/Samueelfonsecaaa/App-mata-mosquito) <br/>
